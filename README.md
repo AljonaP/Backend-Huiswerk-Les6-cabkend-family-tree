@@ -60,9 +60,9 @@ De `Pet` bevat naast de attributen minimaal:
 ## Stappenplan
 Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo goed weet waar je moet beginnen, kun je onderstaand stappenplan gebruiken.
 
-1. Maak de benodigde klassen aan.
+1. [x] Maak de benodigde klassen aan.
 
-2. Geef de klassen de juiste attributen.
+2. [x] Geef de klassen de juiste attributen.
 
 3. Maak de constructors aan binnen de klassen.
 

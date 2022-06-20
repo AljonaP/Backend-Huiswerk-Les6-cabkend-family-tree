@@ -9,8 +9,10 @@ public class Person {
     private Person mother;
     private Person father;
     private List<Person> siblings;
-    private List<Person> children;
+    private List<Person> children = new ArrayList<>();
     private List<Pet> pets;
+
+
 
     public Person(String name, String lastName, String sex, int age) {
         this.name = name;
@@ -111,7 +113,7 @@ public class Person {
         this.father = father;
     }
 
-    public void addChildren(Person child){
+    public void addChild(Person child){
         children.add(child);
     }
 
